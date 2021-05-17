@@ -20,6 +20,8 @@ Paperlist of tracking with transformer
 
 [2021.3] Learning Spatio-Temporal Transformer for Visual Tracking [link](https://arxiv.org/abs/2103.17154)
 
+[2021.5] TrTr: Visual Tracking with Transformer [link](https://arxiv.org/abs/2105.03817)
+
 #### Other Visual Transformer Paperlist
 - [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 - [awesome-transformer-for-vision](https://github.com/lijiaman/awesome-transformer-for-vision)
